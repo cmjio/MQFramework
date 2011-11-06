@@ -1,0 +1,12 @@
+/*
+—————————————————————————————————————————––––––
+Testing Purposes Only
+—————————————————————————————————————————––––––
+*/
+.test { border:1px solid #cc0000;background:rgba(204,0,0,0.2); }
+.test .grid_1,.test .grid_2,.test .grid_3,.test .grid_4,.test .grid_5,.test .grid_6,.test .grid_7,.test .grid_8,.test .grid_9,.test .grid_10,.test .grid_11,.test .grid_12 { border-bottom:1px solid #cc0000;background:rgba(204,0,0,0.2); }
+.test .row{border-bottom:1px solid #ffffff;}
+
+.test .row:last-child{border-bottom:0;}
+
+.test p{border:1px solid #cc0000;background:rgba(204,0,0,0.2);}
